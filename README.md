@@ -11,6 +11,7 @@ The project also includes data visualization, normality testing, transformation 
 ## Dataset Information
 
 The dataset contains housing property details from Bangalore city.
+
 **Features Used**
 
 * location
